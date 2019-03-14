@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Computational Applications to Strategy and Policy'
+landing-title: 'Welcome to CAPS'
 description: null
 image: null
 author: null
